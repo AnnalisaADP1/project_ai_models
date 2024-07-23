@@ -1,7 +1,7 @@
 import setuptools
 
-# Load the long_description from README.md
-with open("README.md", "r", encoding="utf8") as fh:
+# Load the long_description from OfficialReadMe.md
+with open("OfficialReadMe.md", "r", encoding="utf8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
